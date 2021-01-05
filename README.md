@@ -1,5 +1,5 @@
 # Twitter_Depression_Detection
-**REFERENCE for the 'Twitter Classes' :  https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python
+REFERENCE for the '**Twitter Classes**' :  https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python
 
 ## ISSUE
 
