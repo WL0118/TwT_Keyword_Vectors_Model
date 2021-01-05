@@ -28,6 +28,7 @@ I tried to solve this problem by using social-media itself. Made a model that ca
 
 ## RESULT
 
+![image](https://user-images.githubusercontent.com/70621565/103345010-3a465080-4a5e-11eb-93dc-82b4fbb011a2.png)
 ![image](https://user-images.githubusercontent.com/70621565/103339080-6eb21080-4a4e-11eb-8d5f-ff374012abdf.png)
 ![image](https://user-images.githubusercontent.com/70621565/103339089-72de2e00-4a4e-11eb-9535-a5a0f57cd2d7.png)
 ![image](https://user-images.githubusercontent.com/70621565/103339092-7671b500-4a4e-11eb-962e-7c3aaa48a8d0.png)
