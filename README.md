@@ -1,4 +1,5 @@
 # Twitter_Depression_Detection
+**REFERENCE for 'Twitter Classes' :  https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python
 
 ## ISSUE
 
@@ -44,4 +45,4 @@ For example, suppose that we want to predict the 'Samsung Electronics' stock pri
 2. Open the TwT_DP_DETECTION.ipynb and commit the cell sequentially.( without step 1, you can commit the example model with the json files that I extracted)
 
 
-**REFERENCE for Twitter Classes :  https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python
+
