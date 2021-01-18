@@ -1,6 +1,6 @@
 # Twitter_Keyword_Vectors_Model
 REFERENCE for the '**Classes regarding Twitter**' :  https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python
-※class TwitterClient(), class TwitterStreamer(), TwitterListener(), class Authenticator()※
+※ class TwitterClient(), class TwitterStreamer(), class TwitterListener(), class Authenticator()※
 
 ## RESULT
 
