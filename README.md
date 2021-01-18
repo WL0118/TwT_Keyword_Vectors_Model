@@ -3,7 +3,7 @@ REFERENCE for the '**Classes regarding Twitter**' :  https://github.com/vprusso/
 
 ## RESULT
 
-word vectors related with the key word 'depression' in bad mood
+word vectors related with the key word 'depression' in bad mood(negative)
 
 ![image](https://user-images.githubusercontent.com/70621565/103345010-3a465080-4a5e-11eb-93dc-82b4fbb011a2.png)
 
