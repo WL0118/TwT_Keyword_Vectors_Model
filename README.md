@@ -11,9 +11,10 @@ word vectors related with the key word 'depression' in bad mood
 ![image](https://user-images.githubusercontent.com/70621565/103339089-72de2e00-4a4e-11eb-9535-a5a0f57cd2d7.png)
 ![image](https://user-images.githubusercontent.com/70621565/103339092-7671b500-4a4e-11eb-962e-7c3aaa48a8d0.png)
 
-## ISSUE
+## EXTENSTION
 
-In today's world, we are often consumed with our phones and our lives on social media rather than making connections in the real world. This can have a significant negative impact on our social emotional stability and moods. We can esliy get some news that lots of people who are suffering from mental illness such as depression, however, it is hard for us to notice their situation to help them. 
+This model is not only about depression detection but also positive and negative Word Vectors for any keywords.
+For example, suppose that we want to predict the 'Samsung Electronics' stock price. With this model, we can define positive and negative word vectors regarding 'Samsung electronics'. After that, it enables us to get positive and negative real-time tweets, not including the keyword 'Samsung electronics' but about 'Samsung electronics' which can be a feature for the stock prediction.
 
 ## SOLUTION
 
@@ -38,10 +39,7 @@ I tried to solve this problem by using social-media itself. Made a model that ca
 
 
 
-## EXTENSTION
 
-This model is not only about depression detection but also positive and negative Word Vectors for any keywords.
-For example, suppose that we want to predict the 'Samsung Electronics' stock price. With this model, we can define positive and negative word vectors regarding 'Samsung electronics'. After that, it enables us to get implicitly positive and negative real-time tweets about 'Samsung electronics' which can be a feature for the stock prediction.
 
 
 ## How to commit 
