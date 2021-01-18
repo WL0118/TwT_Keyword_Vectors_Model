@@ -1,6 +1,14 @@
 # Twitter_Depression_Detection
 REFERENCE for the '**Classes regarding Twitter**' :  https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python
 
+## RESULT
+
+word vectors related with the key word 'depression' in bad mood
+![image](https://user-images.githubusercontent.com/70621565/103345010-3a465080-4a5e-11eb-93dc-82b4fbb011a2.png)
+![image](https://user-images.githubusercontent.com/70621565/103339080-6eb21080-4a4e-11eb-8d5f-ff374012abdf.png)
+![image](https://user-images.githubusercontent.com/70621565/103339089-72de2e00-4a4e-11eb-9535-a5a0f57cd2d7.png)
+![image](https://user-images.githubusercontent.com/70621565/103339092-7671b500-4a4e-11eb-962e-7c3aaa48a8d0.png)
+
 ## ISSUE
 
 In today's world, we are often consumed with our phones and our lives on social media rather than making connections in the real world. This can have a significant negative impact on our social emotional stability and moods. We can esliy get some news that lots of people who are suffering from mental illness such as depression, however, it is hard for us to notice their situation to help them. 
@@ -26,12 +34,7 @@ I tried to solve this problem by using social-media itself. Made a model that ca
 ![6](https://user-images.githubusercontent.com/70621565/103338555-c18ac880-4a4c-11eb-81e3-336276f1ca79.jpg)
 ![7](https://user-images.githubusercontent.com/70621565/103338558-c3548c00-4a4c-11eb-88be-2048fbce7fbd.jpg)
 
-## RESULT
 
-![image](https://user-images.githubusercontent.com/70621565/103345010-3a465080-4a5e-11eb-93dc-82b4fbb011a2.png)
-![image](https://user-images.githubusercontent.com/70621565/103339080-6eb21080-4a4e-11eb-8d5f-ff374012abdf.png)
-![image](https://user-images.githubusercontent.com/70621565/103339089-72de2e00-4a4e-11eb-9535-a5a0f57cd2d7.png)
-![image](https://user-images.githubusercontent.com/70621565/103339092-7671b500-4a4e-11eb-962e-7c3aaa48a8d0.png)
 
 ## EXTENSTION
 
